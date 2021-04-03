@@ -1,2 +1,3 @@
-# image_similarity
-ResNet50
+https://github.com/qwertyforce/image_search
+https://github.com/qwertyforce/image_search
+https://github.com/qwertyforce/image_search
